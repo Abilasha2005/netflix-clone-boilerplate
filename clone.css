@@ -1,0 +1,30 @@
+.child-one{
+    margin-top: -40px;
+    position:fixed;
+    margin-left:-20px;
+    margin-right:auto;
+}
+
+.name{
+    margin-top: -565px;
+    margin-left: 70px;
+}
+.icons{
+    background-blend-mode:normal;
+    position:fixed;
+    margin-top: 0px;
+    margin-left:1350px;
+    border-spacing: 10px;
+}
+*{
+    background-color: black;
+}
+.new{
+
+    position:fixed;
+    top:20px;
+    margin-left:65px;
+    border-spacing:30px;
+    margin-top:500px;
+    
+}
